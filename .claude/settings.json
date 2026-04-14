@@ -4,6 +4,7 @@
         "allow": [
             "Bash",
             "Read",
+            "Edit",
             "WebFetch"
         ],
         "ask": [
